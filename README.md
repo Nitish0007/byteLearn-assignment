@@ -17,3 +17,7 @@ we are storing the posts data in local storage.
 ## hosted link
 
 https://bytelearn-7491b.web.app/
+
+## github code link
+
+https://github.com/Nitish0007/byteLearn-assignment
