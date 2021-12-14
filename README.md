@@ -1,10 +1,10 @@
 # start
 
-npm i
+`npm i`
 or
-if above don't work then use --> npm i --force
+if above don't work then use --> `npm i --force`
 
-then npm start to start the server
+then `npm start` to start the server
 
 In the above blog post app we can
 
