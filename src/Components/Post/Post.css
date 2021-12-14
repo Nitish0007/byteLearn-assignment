@@ -1,0 +1,13 @@
+.post {
+  background-color: #e3e3e3;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.post p {
+  max-width: 18rem;
+}

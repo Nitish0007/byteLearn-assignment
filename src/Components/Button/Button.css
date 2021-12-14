@@ -1,0 +1,24 @@
+.button {
+  display: flex;
+  gap: 5px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  width: fit-content;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: normal;
+  margin: 3px;
+  white-space: nowrap;
+}
+/* button.hover {
+} */
+
+button:active {
+  transform: translateY(2px);
+}

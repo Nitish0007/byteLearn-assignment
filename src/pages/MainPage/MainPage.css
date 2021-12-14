@@ -1,0 +1,59 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+.main-page-post-heading {
+  padding: 16px;
+  border-bottom: 2px solid #ccc;
+  width: 10rem;
+  margin-left: 1rem;
+}
+.body {
+  display: flex;
+  padding: 2rem;
+  flex-direction: column;
+  gap: 15px;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.inputContainer label {
+  font-weight: 500;
+  font-size: 20px;
+}
+.inputContainer input {
+  width: 300px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+.inputContainer textarea {
+  height: 100px;
+  resize: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+.buttonContainer {
+  display: flex;
+  gap: 15px;
+}
+.errorMsg {
+  color: red;
+  font-weight: 700;
+}
+.details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.details label {
+  font-weight: 700;
+}
